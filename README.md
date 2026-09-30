@@ -187,7 +187,7 @@ Software studio focused on AI automation, product engineering, SaaS solutions, D
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Saimands_Roy/" target="_blank">
+<a href="https://leetcode.com/u/saimandsxroy/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LeetCode-Saimands_Roy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" 
     alt="LeetCode"
@@ -223,7 +223,7 @@ Software studio focused on AI automation, product engineering, SaaS solutions, D
   />
 </a>
 
-<a href="https://leetcode.com/u/Saimands_Roy/" target="_blank">
+<a href="https://leetcode.com/u/saimandsxroy/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" 
     alt="LeetCode"
