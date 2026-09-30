@@ -200,7 +200,7 @@ Software studio focused on AI automation, product engineering, SaaS solutions, D
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Saimands_Roy/">
+<a href="https://leetcode.com/u/saimandsxroy/">
   <img 
     src="https://leetcard.jacoblin.cool/Saimands_Roy?theme=dark&font=Nunito&ext=heatmap" 
     width="100%" 
